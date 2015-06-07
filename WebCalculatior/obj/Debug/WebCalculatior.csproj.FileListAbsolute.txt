@@ -1,0 +1,12 @@
+E:\File\Practice Folder\Web Application\WebCalculatior\bin\WebCalculatior.dll.config
+E:\File\Practice Folder\Web Application\WebCalculatior\bin\WebCalculatior.dll
+E:\File\Practice Folder\Web Application\WebCalculatior\bin\WebCalculatior.pdb
+E:\File\Practice Folder\Web Application\WebCalculatior\obj\Debug\WebCalculatior.csprojResolveAssemblyReference.cache
+E:\File\Practice Folder\Web Application\WebCalculatior\obj\Debug\WebCalculatior.dll
+E:\File\Practice Folder\Web Application\WebCalculatior\obj\Debug\WebCalculatior.pdb
+C:\Users\Shibly\Desktop\Calculator\WebCalculatior\bin\WebCalculatior.dll.config
+C:\Users\Shibly\Desktop\Calculator\WebCalculatior\bin\WebCalculatior.dll
+C:\Users\Shibly\Desktop\Calculator\WebCalculatior\bin\WebCalculatior.pdb
+C:\Users\Shibly\Desktop\Calculator\WebCalculatior\obj\Debug\WebCalculatior.csprojResolveAssemblyReference.cache
+C:\Users\Shibly\Desktop\Calculator\WebCalculatior\obj\Debug\WebCalculatior.dll
+C:\Users\Shibly\Desktop\Calculator\WebCalculatior\obj\Debug\WebCalculatior.pdb
